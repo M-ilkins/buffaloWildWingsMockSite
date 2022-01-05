@@ -232,11 +232,11 @@ a.cartNumber:hover {
     }
 }
 
-@media only screen and (max-width: 1024px) {
+/* @media only screen and (max-width: 1024px) {
     .nav-location-content a:hover {
         font-size: .9rem;
     }
-}
+} */
 
 @media only screen and (min-width: 650px) {
     .selections {
